@@ -8,8 +8,13 @@
 ## Computer Architecture Lectures
 - [CSE564:Computer Architecture](https://passlab.github.io/CSE564/)
 
+
+## Micro-coding
+- [Survival of the fittest - Microcoding Evolution](https://passlab.github.io/CSE564/resources/MicrocodeIntro_Matloff_Franklin04.pdf)
+
 ## RISC-V Pipeline implementation
 - [CSE564 lecture note](https://passlab.github.io/CSE564/notes/lecture09_RISCV_Impl_pipeline.pdf)
+- [CSE564 resources](https://passlab.github.io/CSE564/resources/)
 
 ##Systolic Array 
 - [Systolic Array](http://ashanpeiris.blogspot.com/2015/08/digital-design-of-systolic-array.html)
