@@ -16,6 +16,9 @@
 ## Reading List (~2000)
 - [Standford ee482a Reading List](http://cva.stanford.edu/classes/ee482a/readlist_v1.htm)
 
+## RISC-V SODER
+- [LibreCores RISC-V SODER](https://www.librecores.org/codelec/riscv-sodor)
+
 
 ## RISC-V Pipeline implementation
 - [CSE564 lecture note](https://passlab.github.io/CSE564/notes/lecture09_RISCV_Impl_pipeline.pdf)
