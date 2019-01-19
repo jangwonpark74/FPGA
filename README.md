@@ -8,6 +8,10 @@
 ## CPU Design (MIT Toy-Lite)
 - [Toy CPU design](http://www.cs.princeton.edu/courses/archive/fall09/cos126/lectures/22CPU-2x2.pdf)
 
+## Visual Circuit Tutorial
+- [Visual Circuit Tutorial](http://wiki.nesdev.com/w/index.php/Visual_circuit_tutorial)
+
+
 ## ARMv1 
 - [ARMv1 from wikichip](https://en.wikichip.org/wiki/acorn/microarchitectures/arm1)
 
