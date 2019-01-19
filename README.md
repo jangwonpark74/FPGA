@@ -5,6 +5,15 @@
 ##FPGA Guide 
 - [beginner's guide](https://numato.com/kb/learning-fpga-verilog-beginners-guide-part-1-introduction/?utm_expid=.7ZBm96RhTSyo2rg6tZl_vQ.0&utm_referrer=)
 
+## CPU Design (MIT Toy-Lite)
+- [Toy CPU design](http://www.cs.princeton.edu/courses/archive/fall09/cos126/lectures/22CPU-2x2.pdf)
+
+## ARMv1 
+- [ARMv1 from wikichip](https://en.wikichip.org/wiki/acorn/microarchitectures/arm1)
+
+## ARMv1 visual simulation
+- [ARM1 simulation](http://www.visual6502.org/)
+
 ## Computer Architecture Lectures
 - [CSE564:Computer Architecture](https://passlab.github.io/CSE564/)
 
