@@ -23,6 +23,7 @@
 
 ## FPGA based neural networks
 - [FPGA implementation](http://lab.fs.uni-lj.si/lasin/wp/IMIT_files/neural/doc/Omondi2006.pdf)
+- [Neural Network Implementation Using FPGA](https://waset.org/publications/15106/neural-network-implementation-using-fpga-issues-and-application)
 
 ## FPGA CNN
 - [binarized CNN on FPGA](https://www.slideshare.net/ssuser06e0c5/binarized-cnn-on-fpga)
