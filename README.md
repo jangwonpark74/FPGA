@@ -8,6 +8,9 @@
 ## CPU Design (MIT Toy-Lite)
 - [Toy CPU design](http://www.cs.princeton.edu/courses/archive/fall09/cos126/lectures/22CPU-2x2.pdf)
 
+## Standford ic design report
+- [Tiny CPU verilog design](https://stanford.edu/~sebell/oc_projects/ic_design_finalreport.pdf)
+
 ## Visual Circuit Tutorial
 - [Visual Circuit Tutorial](http://wiki.nesdev.com/w/index.php/Visual_circuit_tutorial)
 
