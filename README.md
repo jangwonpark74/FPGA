@@ -2,7 +2,7 @@
 - [washington university CSE370](https://courses.cs.washington.edu/courses/cse370/09au/)
 - [CSE370 Lecture Notes](https://courses.cs.washington.edu/courses/cse370/10sp/pdfs/lectures/)
 
-##FPGA Guide 
+## FPGA Guide 
 - [beginner's guide](https://numato.com/kb/learning-fpga-verilog-beginners-guide-part-1-introduction/?utm_expid=.7ZBm96RhTSyo2rg6tZl_vQ.0&utm_referrer=)
 
 ## CPU Design (MIT Toy-Lite)
