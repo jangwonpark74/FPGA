@@ -17,6 +17,11 @@
 
 ## Intel 4004 
 - [Intel 4004 Wiki](https://femiwiki.com/w/인텔_4004)
+- [4004.com](http://www.4004.com/2015-news.html)
+
+
+## Shift Register
+- [Experimenting Shift Register](https://www.youtube.com/watch?v=Fc1FF7dVyaU)
 
 ## ARMv1 
 - [ARMv1 from wikichip](https://en.wikichip.org/wiki/acorn/microarchitectures/arm1)
