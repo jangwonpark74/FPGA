@@ -16,9 +16,12 @@
 
 
 ## Intel 4004 
+- [Intel 4004](https://en.wikipedia.org/wiki/Intel_4004)
 - [Intel 4004 Wiki](https://femiwiki.com/w/인텔_4004)
 - [4004.com](http://www.4004.com/2015-news.html)
 
+## SR Latch 
+- [SR Latch](http://www.pyroelectro.com/edu/digital/sr_latch/)
 
 ## Shift Register
 - [Experimenting Shift Register](https://www.youtube.com/watch?v=Fc1FF7dVyaU)
