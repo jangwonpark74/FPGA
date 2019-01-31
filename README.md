@@ -15,6 +15,9 @@
 - [Visual Circuit Tutorial](http://wiki.nesdev.com/w/index.php/Visual_circuit_tutorial)
 
 
+## Intel 4004 
+- [Intel 4004 Wiki](https://femiwiki.com/w/인텔_4004)
+
 ## ARMv1 
 - [ARMv1 from wikichip](https://en.wikichip.org/wiki/acorn/microarchitectures/arm1)
 
@@ -40,12 +43,20 @@
 - [CSE564 lecture note](https://passlab.github.io/CSE564/notes/lecture09_RISCV_Impl_pipeline.pdf)
 - [CSE564 resources](https://passlab.github.io/CSE564/resources/)
 
+
+## Intel HyperFlex 
+- [Intel HyperFlex FPGA Architecture](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/wp/wp-01231-understanding-how-hyperflex-architecture-enables-high-performance-systems.pdf)
+
+
 ## FPGA based neural networks
 - [FPGA implementation](http://lab.fs.uni-lj.si/lasin/wp/IMIT_files/neural/doc/Omondi2006.pdf)
 - [Neural Network Implementation Using FPGA](https://waset.org/publications/15106/neural-network-implementation-using-fpga-issues-and-application)
 
 ## FPGA CNN
 - [binarized CNN on FPGA](https://www.slideshare.net/ssuser06e0c5/binarized-cnn-on-fpga)
+
+## Microsoft Brain wave
+- [Article on Microsoft Brain wave](https://www.top500.org/news/microsoft-launches-fpga-powered-machine-learning-for-azure-customers/)
 
 ## Cuda Instruction Level Parallelism
 - [ILP Lecture](https://www.nvidia.com/content/cudazone/cudau/courses/ucdavis/lectures/ilp1.pdf)
