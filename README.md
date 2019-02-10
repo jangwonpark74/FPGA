@@ -19,6 +19,7 @@
 - [Intel 4004](https://en.wikipedia.org/wiki/Intel_4004)
 - [Intel 4004 Wiki](https://femiwiki.com/w/인텔_4004)
 - [4004.com](http://www.4004.com/2015-news.html)
+- [4004 Printer](http://www.4004.com/busicom-replica.html)
 
 ## SR Latch 
 - [SR Latch](http://www.pyroelectro.com/edu/digital/sr_latch/)
