@@ -14,6 +14,8 @@
 ## Visual Circuit Tutorial
 - [Visual Circuit Tutorial](http://wiki.nesdev.com/w/index.php/Visual_circuit_tutorial)
 
+## First Microprocessor
+ - [F14 Tomcat CADC](https://web.archive.org/web/20110530130753/http://www.microcomputerhistory.com/)
 
 ## Intel 4004 
 - [Intel 4004](https://en.wikipedia.org/wiki/Intel_4004)
