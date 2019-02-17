@@ -5,7 +5,8 @@
 ## Process Roadmap (IEEE)
  - [chipset technology roadmap](https://irds.ieee.org/images/files/pdf/2017/2017IRDS_MM.pdf)
 
-
+## Verilog Tutorial 
+ - [Verilog Tutorial](https://ece.umd.edu/courses/enee359a/verilog_tutorial.pdf)
 
 ## FPGA Guide 
  - [beginner's guide](https://numato.com/kb/learning-fpga-verilog-beginners-guide-part-1-introduction/?utm_expid=.7ZBm96RhTSyo2rg6tZl_vQ.0&utm_referrer=)
