@@ -8,6 +8,36 @@
 ## Verilog Tutorial 
  - [Verilog Tutorial](https://ece.umd.edu/courses/enee359a/verilog_tutorial.pdf)
 
+### iVerilog icarus install
+
+- iverilog install 
+```
+	$sudo apt-get install iverilog
+	$sudo apt-get install gtkwave
+	$sudo apt-get install vim-gtk3
+```
+
+- After installation write simple helloworld!
+```verilog
+module main;
+intial 
+	begin 
+		$display("Hello world!");
+		$finish;
+	end
+endmodule
+```
+
+- first execution
+```
+	$ iverilog demo_hello.v -o demo_hello
+    $ vvp demo_hello
+```
+
+### Icarus Verilog Tutorial 
+- [iverilog instructions](http://www.swarthmore.edu/NatSci/mzucker1/e15/iverilog-instructions.html)
+
+
 ## FPGA Guide 
  - [beginner's guide](https://numato.com/kb/learning-fpga-verilog-beginners-guide-part-1-introduction/?utm_expid=.7ZBm96RhTSyo2rg6tZl_vQ.0&utm_referrer=)
 
