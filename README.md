@@ -7,6 +7,7 @@
 
 ## Verilog Tutorial 
  - [Verilog Tutorial](https://ece.umd.edu/courses/enee359a/verilog_tutorial.pdf)
+ - [Verilog Reference Design](http://referencedesigner.com/tutorials/verilog/verilog_01.php)
 
 ### iVerilog icarus install
 
