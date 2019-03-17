@@ -75,6 +75,8 @@ endmodule
 ## Computer Architecture Lectures
  - [CSE564:Computer Architecture](https://passlab.github.io/CSE564/)
 
+### MIT 6.004 (2019)
+ - [ALU Design Tradeoff](https://www.youtube.com/watch?v=VoIxhuhTZbc)
 
 ## Micro-coding
  - [Survival of the fittest - Microcoding Evolution](https://passlab.github.io/CSE564/resources/MicrocodeIntro_Matloff_Franklin04.pdf)
