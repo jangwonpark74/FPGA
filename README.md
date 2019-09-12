@@ -75,6 +75,10 @@ endmodule
 ## Computer Architecture Lectures
  - [CSE564:Computer Architecture](https://passlab.github.io/CSE564/)
 
+
+## AMD ZEN2 Architecture
+ - [ Deep Dive into Zen2 architecture](https://www.nextplatform.com/2019/08/15/a-deep-dive-into-amds-rome-epyc-architecture/)
+
 ### MIT 6.004 (2019)
  - [ALU Design Tradeoff](https://www.youtube.com/watch?v=VoIxhuhTZbc)
 
